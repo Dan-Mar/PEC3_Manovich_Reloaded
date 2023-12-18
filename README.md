@@ -1,5 +1,7 @@
 # PEC3
+
 Autor: Diego Antonio Rodrigo Martín
+
 Fecha: 18/12/2023
 
 ## Planteamiento
