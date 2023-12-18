@@ -43,6 +43,9 @@ Google Maps, visto a través de "las gafas de Manovich", no es solo un avance te
 La hibridación de medios, como se ve en los asistentes virtuales inteligentes y los servicios de cartografía digital, representa una nueva frontera en la interacción humana con la tecnología. Estos ejemplos ilustran cómo la fusión de diferentes tecnologías y prácticas puede crear experiencias novedosas y transformadoras, redefiniendo nuestra relación con los medios y la información. A través de estos casos, observamos cómo la visión de Manovich sobre la evolución del software y su impacto en la cultura digital se manifiesta en formas innovadoras y sorprendentes.
 
 ## Referencias y Bibliografía
+
 Manovich, L. (2013). El Software Toma el Mando. Editorial UOC.
+
 Google Maps Wikipedia. <https://es.wikipedia.org/wiki/Google_Maps>
+
 Asistente Virtual Wikipedia. <https://es.wikipedia.org/wiki/Asistente_virtual>
